@@ -1,0 +1,9 @@
+lsb_release -a
+uname
+ls <tab>
+cat /proc/meminfo && cat /proc/cpuinfo
+dmidecode
+fdisk -l
+hdparm
+top
+ip a

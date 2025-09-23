@@ -1,0 +1,14 @@
+# SEÑALES
+
+kill -
+
+1 → SIGHUP → Recarga
+15 → SIGTERM → Termina y muere
+9 → SIGKILL → Matar
+
+ps -ef | grep brave
+
+pidof brave-browser
+pgrep brave
+
+kill -9 `pgrep brave`

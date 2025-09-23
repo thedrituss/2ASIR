@@ -1,0 +1,5 @@
+# ARRANQUE SSOO
+
+kernel
+ - init (1)
+ - systemd (1)

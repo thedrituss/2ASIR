@@ -1,0 +1,25 @@
+
+' Powershell:
+
+msinfo32
+systeminfo > archivo.txt
+Get-WmiObject win32_baseboard
+winver
+Get-ComputerInfo
+Get-ComputerInfo | Get-Member -Membertype Property
+
+'
+
+[win + r] ver
+[win+r] taskmgr
+
+""" Versiones
+21H2
+H1 = Primer semestre
+H2 = Segundo semestre
+Q1 = Primer trimestre
+Q2, Q3, Q4
+
+
+"""
+[win+r] taskmgr
