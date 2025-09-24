@@ -1,0 +1,8 @@
+# CONTROL DE PROCESOS
+
+ps -l
+    O: ejecución (estado de ejecución)
+    R: ejecutable (estado listo)
+    S: dormido (estado bloqueado)
+    T: parado por una señal (estado bloqueado)
+    Z: zombie (terminado)

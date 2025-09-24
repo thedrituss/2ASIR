@@ -12,3 +12,5 @@ pidof brave-browser
 pgrep brave
 
 kill -9 `pgrep brave`
+
+nice firefox para alta prioridad
